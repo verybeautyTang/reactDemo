@@ -16,7 +16,9 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React with me 111
-          这句话是贺诗雨添加上去的哦后！
+          To  use technology are travis ci and hereku
+		travis ci 负责 持续集成
+		heroku 负责持续部署
         </a>
       </header>
     </div>
